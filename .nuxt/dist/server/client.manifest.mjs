@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/gerar/OneDrive/Desktop/notas-rapidas-pwa-offline/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

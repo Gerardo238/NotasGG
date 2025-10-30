@@ -1,0 +1,23 @@
+{
+  "name": "notas-rapidas-pwa",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev -o",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "@vite-pwa/nuxt": "^0.10.6",
+    "idb-keyval": "^6.2.1",
+    "nanoid": "^5.0.7",
+    "nuxt": "3.13.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "typescript": "^5.6.3",
+    "vue-tsc": "^2.1.8"
+  }
+}
